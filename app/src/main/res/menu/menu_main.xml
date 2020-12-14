@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/screenshot"
+        app:showAsAction="never"
+        android:title="Printar Tela">
+    </item>
+    <item
+        android:id="@+id/gravar"
+        app:showAsAction="never"
+        android:title="Gravar">
+    </item>
+    <item
+        android:id="@+id/showscreenshot"
+        app:showAsAction="never"
+        android:title="Ver Imagem ">
+    </item>
+    <item
+        android:id="@+id/sharescreenshot"
+        app:showAsAction="never"
+        android:title="Compartilhar">
+    </item>
+</menu>

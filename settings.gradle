@@ -1,0 +1,3 @@
+include ':onvifcamera'
+include ':app'
+rootProject.name = "br.camera.onvif"
