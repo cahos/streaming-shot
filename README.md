@@ -1,3 +1,3 @@
 # streaming-shot
 
-![](StreamingShot.2020-12-14 22_01_37.gif)
+![](https://github.com/cahos/streaming-shot/raw/main/StreamingShot.2020-12-14%2022_01_37.gif)
